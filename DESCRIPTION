@@ -1,6 +1,6 @@
 Package: DemProjr
 Title: Demonstration of `projr`
-Version: 0.0.2-1
+Version: 0.0.3
 Authors@R: person("Miguel", "Rodo", , "miguel.rodo@uct.ac.za", role = c("aut",
          "cre"))
 Maintainer: Miguel Rodo <miguel.rodo@uct.ac.za>
