@@ -11,14 +11,14 @@ format:
 data(cars)
 write.csv(
   cars,
-  file = projr_path_get(
+  file = projr::projr_path_get(
     "data-raw", "cars.csv"
     )
 )
 cars_tidy <- cars[1:5, ]
 write.csv(
   cars,
-  file = projr_path_get(
+  file = projr::projr_path_get(
     "output", "cars.csv"
     )
 )
