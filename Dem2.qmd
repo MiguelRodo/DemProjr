@@ -1,0 +1,10 @@
+---
+title: Demonstration of `projr`
+format:
+  html:
+    embed-resources: true
+---
+
+# Introduction
+
+Test
