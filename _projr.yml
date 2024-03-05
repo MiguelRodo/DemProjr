@@ -8,5 +8,15 @@ directories:
   docs:
     path: docs
 build:
-  git: yes
+  local:
+    archive:
+      path: _archive
+      content:
+      - data-raw
+      - output
+      - docs
+      structure: version
+      send:
+        sync-approach: sync-using-version
+        version-source: none
 
