@@ -1,0 +1,13 @@
+Package: DemProjr
+Title: Demonstration of `projr`
+Version: 0.0.0-1
+Authors@R: person("Miguel", "Rodo", , "miguel.rodo@uct.ac.za", role = c("aut",
+         "cre"))
+Maintainer: Miguel Rodo <miguel.rodo@uct.ac.za>
+Description: Demonstration of `projr`
+License: {{ License }}
+URL: https://github.com//DemProjr/#readme
+BugReports: https://github.com//DemProjr/issues
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
